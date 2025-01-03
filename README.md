@@ -1,12 +1,12 @@
 ## 👨‍💻 About Me
 
-Hi, I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
+Hi, I'm **Hema Tate**, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
 
 ---
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhipraydhoble/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Hema Tate/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_abhipray/)
 
 ---
